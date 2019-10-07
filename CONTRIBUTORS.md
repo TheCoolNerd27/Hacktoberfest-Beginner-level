@@ -30,4 +30,6 @@
 
 * [Andrew Gunderman](https://github.com/agunderman10)
 
+* [Rohan Ashra](https://github.com/TheCoolNerd27)
+
 * [Ravi Prakash](https://github.com/ravi-prakash1907)
